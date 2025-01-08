@@ -50,7 +50,7 @@ Zaszyfrowany tekst: cde
 ---
 
 **Zadanie 3:**  
-Napisz program realizujący **sortowanie szybkie (ang. quicksort)**. Program powinien:  
+Napisz program realizujący **sortowanie przez scalanie (ang. merge sort)**. Program powinien:  
 1. Przyjąć od użytkownika listę liczb całkowitych jako wejście.  
 2. Wykorzystać algorytm sortowania przez wstawianie do uporządkowania listy w porządku rosnącym.  
 
