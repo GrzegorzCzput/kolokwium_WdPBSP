@@ -65,6 +65,6 @@ Posortowana lista: [2, 2, 9, 45]
 ```  
 
 **Zadanie wysłać na**
-'''
+```
 grzegorz.czechmanowski@put.poznan.pl
-'''
+```
