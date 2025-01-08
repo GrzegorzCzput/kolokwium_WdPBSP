@@ -23,7 +23,7 @@ Program powinien zwrócić dwie listy:
 
 ### Przykład wyjścia:  
 ```python
-(["ABRRAR", "Quick Brown fox"], [3.14, 4.57, 25.12])
+(["ABRAR", "uick BRown fox"], [3.14, 4.57, 25.12])
 ```
 
 **Zadanie 2:**  
