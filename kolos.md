@@ -24,7 +24,7 @@ Program powinien zwrócić dwie listy:
 
 ### Przykład wyjścia:  
 ```python
-(["LSeR", "uick"], [3.14, 27.12])
+(["LSeR", "uick"], [3.14])
 ```
 
 **Zadanie 2:**  
