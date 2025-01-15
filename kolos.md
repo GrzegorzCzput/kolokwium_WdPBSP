@@ -4,7 +4,7 @@
 Napisz program, który przyjmuje na wejściu listę zawierającą elementy różnych typów: `str`, `float`. Dla każdego typu wykonaj określoną operację:  
 
 1. **Dla łańcuchów znaków (`str`)**:
-   - Zamień wszystkie litery `l`, `s`, `r` na wielkie litery (`A`, `B`, `R`).
+   - Zamień wszystkie litery `l`, `s`, `r` na wielkie litery (`L`, `S`, `R`).
    - Usuń wszystkie wystąpienia litery `q` (niezależnie od wielkości liter).  
 
 2. **Dla liczb zmiennoprzecinkowych (`float`)**:
