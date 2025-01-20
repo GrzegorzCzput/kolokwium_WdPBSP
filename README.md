@@ -9,3 +9,7 @@
 * [Topics](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Topics/Understanding-ROS2-Topics.html)
 
 * [Nodes](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Nodes/Understanding-ROS2-Nodes.html)
+
+### Link do zajęć 20.01.25
+
+* [Link do spotaknie](https://meet.google.com/wrk-hvcn-dzp)
